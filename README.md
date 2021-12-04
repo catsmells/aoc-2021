@@ -7,3 +7,4 @@ solutions will be posted here in any language i see either fit for the challenge
 | 1 | Haskell |
 | 2 | Awk |
 | 3 | emojiC |
+| 4 | Python 3.1 |
