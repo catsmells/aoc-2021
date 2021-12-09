@@ -11,3 +11,4 @@ solutions will be posted here in any language i see either fit for the challenge
 | 5 | R |
 | 6 | Python 3.7 |
 | 7 | Haskell |
+| 8 | Python 3.8 |
